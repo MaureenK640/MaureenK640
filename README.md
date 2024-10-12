@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maureen King'ori
+- 👀 I’m interested in Coding and traveling 
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to collaborate with developers to work on new and existing projects...
+- 📫 You can reach me at: maureenkings33@gmail.com
